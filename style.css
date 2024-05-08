@@ -25,8 +25,8 @@ body {
 }
 
 .container {
-    width: 50vw;
-    height: 65vh;
+    width: 46vw;
+    height: 80vh;
     background-color: var(--Off-white);
     border-radius: 27px;
     border-bottom-right-radius: 30%;
